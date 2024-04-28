@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tmH3jt9Qo95wh+ppDXtuY3oSRkPCXwLhg8wKlqIp7bBbWec0t7NCsi0F9vlntSqG0dzQLZYRUZaetdGYASpsig==",
+  "dgSpecHash": "ZDmwXcQMTHI9roa+hJeNZg0v/gl6rH42EPtb2EIpYIP3wtRy/wtX/pw/JZMpTWilO/gKyUKeDtuuX2xkHBQ18A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marid\\Downloads\\Projeto_Web-Lh_Pets_Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
+  "projectFilePath": "C:\\Projetos\\Senai\\Projeto_Web-Lh_Pets_Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marid\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\marid\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
